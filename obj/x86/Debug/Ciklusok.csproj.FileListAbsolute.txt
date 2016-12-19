@@ -1,0 +1,4 @@
+C:\Users\guthe\documents\visual studio 2010\Projects\Ciklusok\bin\Debug\Ciklusok.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\Ciklusok\bin\Debug\Ciklusok.pdb
+C:\Users\guthe\documents\visual studio 2010\Projects\Ciklusok\obj\x86\Debug\Ciklusok.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\Ciklusok\obj\x86\Debug\Ciklusok.pdb
