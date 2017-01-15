@@ -42,7 +42,6 @@ namespace Ciklusok
             Console.WriteLine("A szamok osszege (do - while) 1..100-ig: {0}", osszeg);
 
             Console.ReadKey();
-
         }
     }
 }
