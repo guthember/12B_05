@@ -1,0 +1,7 @@
+Írassuk az [1..100] egész számok összegét
+
+-for 
+-while
+-do while 
+
+ciklus szerkezetekkel. 
